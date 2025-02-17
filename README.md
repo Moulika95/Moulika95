@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**Moulika95/Moulika95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Moulika Bagari</h1>
+<h3 align="center">I'm passionate about Machine Learning, Data Science, Large Language Models (LLMs) and Generative AI.I love exploring how AI can solve real-world problems and create new possibilities. Always excited to learn and share cool projects!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I hold a Masters Degree in Business Analytics with a specialisation in Big Data Analytics from Florida Altantic University Florida and I have 3+ years of experience building and deploying machine learning and deep learning models. **I have a strong practical and theoretical experience in the development of Large Language Models (LLMs) and Generative AI.**
+
+- 🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: **Auto-Regressive (AR) Model Auto-Regressive Moving Averages (ARMA) Model Auto-Regressive Integrated Moving Averages (ARIMA) Model Neural Hierarchical Interpolation of Time Series (N-HiTS) Model Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model The Prophet Forecasting Model by Facebook**
+
+- 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: **Machine Learning Certification by Stanford University Deep Learning Specialization by Andrew Ng Data Science Professional Certificate by IBM Python for Everybody Specialization by University of Michigan**
+
+- 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models: **Linear Regression Logistic Regression Support Vector Machines (SVM) Decision Trees (DT) Random Forests (RF) K-Nearest Neighbors (KNN) Deep Neural Networks Convolutional Neural Networks (CNN) Recurrent Neural Networks (RNN) Naive Bayes (NB) Gradient Boosted Decision Trees (GBDT) XGBoost Long Short-Term Memory (LSTM)**
+
+- 🔭Furthermore, below are some of the tools used during my experience for Generative AI: **Langchain LangGraph Retrieval Augmented Generation (RAG) Llama Index OpenAI API Mixtral (LLM) Llama 2 (LLM) GPT - 3 (LLM) GPT - 3.5 (LLM) GPT - 4 (LLM)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/moulika-bagari-a55774197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/moulika-bagari-a55774197" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
